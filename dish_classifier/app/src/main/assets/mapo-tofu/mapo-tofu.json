@@ -1,0 +1,93 @@
+{
+  name: "mapo-tofu.json",
+  steps: [
+    {
+      text: "Combine ground pork, cooking wine, soy sauce, and ginger in a bowl. Mix well.",
+      img: "mapo-tofu/Mapo-Tofu_001.jpg"
+    },
+    {
+      text: "Combine cornstarch with 1 tablespoon water in a small bowl. Mix well and set aside."
+    },
+    {
+      text: "Cut and prep tofu and herbs.",
+      img: "mapo-tofu/Mapo-Tofu_002.jpg"
+    },
+    {
+      text: "Heat vegetable oil and Sichuan peppercorns in a large nonstick skillet over medium high heat. When the Sichuan peppercorns turn dark brown and crispy, scoop them out with spatula and transfer into a bowl layered with paper towel to soak extra oil. Save to use for garnish the dish.",
+      img: "mapo-tofu/Mapo-Tofu_003.jpg"
+    },
+    {
+      text: "When oil is hot, add ground meat and Doubanjiang. Stir-fry over medium heat with a spatula, until pork is evenly coated with Doubanjiang. Add green onion and stir fry for another minute.",
+      img: "mapo-tofu/Mapo-Tofu_004.jpg"
+    },
+    {
+      text: "Spread tofu evenly on top of ground pork (*See footnote 2). Add chili oil, five-spice powder, and sugar. Pour in water and cook until bringing to a simmer. Simmer, covered, over low heat for 10 to 15 minutes, until tofu becomes tender and the sauce has reduced to half the original amount. Taste the tofu with some broth (be careful, it will be very hot!). Adjust seasoning by adding salt. If the dish is too spicy, add another teaspoon of sugar. Gently mix well with spatula.",
+      img: "mapo-tofu/Mapo-Tofu_005.jpg"
+    },
+    {
+      text: "Place a tbsp full of red bean paste on top of the rice."
+    },
+    {
+      text: "Meanwhile, ground the fried Sichuan peppercorns (you used when heating up the oil) in a coffee grinder or by using mortar and pastel."
+    },
+    {
+      text: "Mix cornstarch water again until fully dissolved and swirl it into the skillet. Gently stir a few times with a spatula, until sauce thickens. Turn off heat and transfer everything to a bowl."
+    },
+    {
+      text: "Garnish with green onion and a small pinch the ground Sichuan peppercorns, if using. Serve warm over steamed rice or by itself as main.",
+      img: "mapo-tofu/Mapo-Tofu_006.jpg"
+    }
+  ],
+  summary: "Authentic Szechuan style mapo tofu is one of the branding dishes of Szechuan cuisine. It is spicy, numbing, hot, aromatic and tender. ",
+  title: "Mapo Tofu",
+  img: "mapo-tofu/Mapo-Tofu.jpg",
+  serving: [
+  ],
+  ingredients: [
+    {
+      text: "120 grams (4 ounces) ground meat (pork, chicken or turkey)"
+    },
+    {
+      text: "2 teaspoons Shaoxing wine (or Japanese Sake)"
+    },
+    {
+      text: "1 teaspoon light soy sauce"
+    },
+    {
+      text: "1/2 teaspoon minced ginger (or 1/4 teaspoon ginger powder)"
+    },
+    {
+      text: "1 teaspoon cornstarch"
+    },
+    {
+      text: "2 teaspoons Sichuan peppercorns (increase to 3 teaspoons if you like your dish extra numbing)"
+    },
+    {
+      text: "1 tablespoon vegetable oil"
+    },
+    {
+      text: "3 tablespoons Doubanjiang (spicy fermented bean paste)"
+    },
+    {
+      text: "1 block (400-g / 14-oz) firm or medium firm tofu, cut into 1.5cm (1/2 inch) squares"
+    },
+    {
+      text: "1 cup water (or chicken stock)"
+    },
+    {
+      text: "2 teaspoons Chinese chili oil (1 teaspoon for a less spicy dish)"
+    },
+    {
+      text: "1/4 teaspoon five-spice powder"
+    },
+    {
+      text: "1 teaspoon sugar or to taste"
+    },
+    {
+      text: "(optional) 1 tablespoon green part of chopped green onion for garnish"
+    },
+    {
+      text: "(optional) steamed rice to serve with"
+    }
+  ]
+}

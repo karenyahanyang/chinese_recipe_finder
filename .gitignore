@@ -1,0 +1,8 @@
+model_trainer/__pycache__/*
+model_trainer/.idea/*
+dish_classifier/Dog_classifier.iml
+dish_classifier/app/build/*
+dish_classifier/app/app.iml
+dish_classifier/app/build.gradle
+dish_classifier/app/Dog_classifier-app.iml
+dish_classifier/build/*

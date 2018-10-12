@@ -1,0 +1,58 @@
+{
+  name: "tomato_egg_drop_soup.json",
+  steps: [
+    {
+      text: "Start with the ingredients",
+      img: "tomato_egg_drop_soup/tomato_egg_drop_soup_01.jpg"
+    },
+    {
+      text: "Heat the oil in a soup pot or wok over medium high heat. Add the tomatoes and fry for a minute.",
+      img: "tomato_egg_drop_soup/tomato_egg_drop_soup_02.jpg"
+    },
+    {
+      text: "Add the chicken stock, sesame oil, salt, and white pepper. Bring to a boil, and then lower the heat so that the soup is simmering."
+    },
+    {
+      text: "Beat the eggs in a small bowl. Use a ladle to slowly swirl the soup in a whirlpool motion. Keep swirling as you pour a thin stream of egg into the middle of the whirlpool. This is how you get the egg drop effect.",
+      img: "tomato_egg_drop_soup/tomato_egg_drop_soup_03.jpg"
+    },
+    {
+      text: "Ladle the soup into bowls and garnish with chopped scallion and cilantro. ",
+      img: "tomato_egg_drop_soup/tomato_egg_drop_soup_04.jpg"
+    }
+  ],
+  summary: "It’s a traditional dish you’ll find at fancy Chinese resultants just as often as at household dinner table.",
+  title: "Tomato Egg Drop Soup",
+  img: "tomato_egg_drop_soup/tomato_egg_drop_soup_04.jpg",
+  serving: [
+  ],
+  ingredients: [
+    {
+      text: "1 tablespoon oil"
+    },
+    {
+      text: "2 tomatoes, roughly chopped"
+    },
+    {
+      text: "4 cups chicken stock"
+    },
+    {
+      text: "1/2 teaspoon sesame oil"
+    },
+    {
+      text: "Salt, to taste"
+    },
+    {
+      text: "Pinch white pepper"
+    },
+    {
+      text: "2 eggs"
+    },
+    {
+      text: "1 scallion, chopped"
+    },
+    {
+      text: "1 tablespoon chopped cilantro"
+    }
+  ]
+}

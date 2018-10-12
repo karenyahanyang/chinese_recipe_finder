@@ -1,0 +1,71 @@
+{
+  name: "red-cooked-pork.json",
+  steps: [
+    {
+      text: "Parboil the pork belly in a large pot of water for 20 minutes. Skim off any foam or scum on the surface. Transfer the pork belly out and let it cool to room temperature. Save 1.5 cups of pork stock for later use.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-1.jpg"
+    },
+    {
+      text: "Cut the pork belly into smaller pieces. I generally prefer 1”x1” but you can go up to 1.5”x1.5”. Anything larger than that will be hard to bite into.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-2.jpg"
+    },
+    {
+      text: "In a skillet or dutch oven, combine ½ cups of water and the sugar and cook over medium heat.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-3.jpg"
+    },
+    {
+      text: "Once the mixture starts to caramelize, add the pork to the skillet and let it brown.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-4.jpg"
+    },
+    {
+      text: "Make sure to stir and turn the pork chunks regularly to prevent from sticking to the bottom and get a nice and event browning.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-5.jpg"
+    },
+    {
+      text: "Then add garlic, scallions, star anise, dark and regular soy sauce, cooking wine, and pork stock from step 1 to the skillet. Stir to mix.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-6.jpg"
+    },
+    {
+      text: "Bring to a boil and reduce the heat to simmer and cook for 1.5 hours with lid on. Stir periodically to prevent the meat from sticking to the bottom. Alternatively, you can also transfer everything to a slow cooker and cook until meat is tender.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-7.jpg"
+    },
+    {
+      text: "Last step, with the lid off, reduce the sauce to a rich and thick consistency and serve the pork with a side of steamed rice.",
+      img: "red-cooked-pork/red-cooked-pork-recipe-step-8.jpg"
+    }
+  ],
+  summary: "It’s a traditional dish you’ll find at fancy Chinese resultants just as often as at household dinner table.",
+  title: "Red Cooked Pork",
+  img: "red-cooked-pork/red-cooked-pork.jpg",
+  serving: [
+  ],
+  ingredients: [
+    {
+      text: "1.5lb pork belly"
+    },
+    {
+      text: "1.5 cup water/pork broth from step 1"
+    },
+    {
+      text: "2 tbsp sugar"
+    },
+    {
+      text: "1 tbsp light soy sauce"
+    },
+    {
+      text: "2 tbsp dark soy sauce"
+    },
+    {
+      text: "3 star anise"
+    },
+    {
+      text: "1/2 cup shaoxing cooking wine"
+    },
+    {
+      text: "3 clove garlic"
+    },
+    {
+      text: "2 scallions, cut into 2 inch segments"
+    }
+  ]
+}

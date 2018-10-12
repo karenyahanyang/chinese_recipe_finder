@@ -1,0 +1,58 @@
+{
+  name: "cabbage-stir-fry.json",
+  steps: [
+    {
+      text: "In a wok over high heat, add the oil. Sear the meat until caramelized. Add the garlic and chili, turn down the heat to medium, and stir-fry for a minute, taking care not to burn the garlic.",
+      img: "cabbage-stir-fry/cabbage-stir-fry-1.jpg"
+    },
+    {
+      text: "Add the cabbage, wine, soy sauce, sugar, and water. ",
+      img: "cabbage-stir-fry/cabbage-stir-fry-2.jpg"
+    },
+    {
+      text: "Turn up the heat to high, cover the lid and let the cabbage cook for 1-2 minutes.",
+      img: "cabbage-stir-fry/cabbage-stir-fry-3.jpg"
+    },
+    {
+      text: "Uncover the lid, and stir in the dark vinegar, scallions, and salt to taste. The cabbage should be wilted, but still slightly crunchy and caramelized.",
+      img: "cabbage-stir-fry/cabbage-stir-fry-4.jpg"
+    }
+  ],
+  summary: "Among Chinese cabbage recipes, this cabbage stir-fry is savory, tangy, and very quick to prepare.",
+  title: "Cabbage Stir Fry",
+  img: "cabbage-stir-fry/cabbage-stir-fry.jpg",
+  serving: [
+  ],
+  ingredients: [
+    {
+      text: "2 tablespoons oil"
+    },
+    {
+      text: "6 oz. pork belly, pork loin, or chicken, thinly sliced"
+    },
+    {
+      text: "5 cloves garlic, smashed and cut in half"
+    },
+    {
+      text: "5 dried red chilies, deseeded and roughly chopped"
+    },
+    {
+      text: "1 and half lb. cabbage, hand-shredded into bite sized pieces, washed, and thoroughly dried"
+    },
+    {
+      text: "2 teaspoons Shaoxing wine"
+    },
+    {
+      text: "1/2 teaspoon sugar"
+    },
+    {
+      text: "1 tablespoon water"
+    },
+    {
+      text: "1/2 teaspoon Chinese black vinegar"
+    },
+    {
+      text: "2 scallions, cut into 2-inch lengths"
+    }
+  ]
+}

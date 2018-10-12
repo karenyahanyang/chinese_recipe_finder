@@ -1,0 +1,69 @@
+{
+  name: "red-bean-sticky-rice-dumpling.json",
+  steps: [
+    {
+      text: "In a bowl, let the glutinous rice (sticky rice) soak in cold water overnight. The rice will absorb a good deal of water. Drain the excess before assembling.",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step1.jpg"
+    },
+    {
+      text: "Submerge the bamboo leaves for 30 minutes until soft. Rinse under cold water to remove the dirt. Transfer the bamboo leaves to a large pot of boiling water and let them simmer for at least 10 minutes or until the leaves are green fully rehydrated. ",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step2.jpg"
+    },
+    {
+      text: "Drain and set aside. ",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step3.jpg"
+    },
+    {
+      text: "To assemble the zongzi, take two bamboo leaves pointing in opposite directions and overlap the leaves by 80%.",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step4.jpg"
+    },
+    {
+      text: "Fold the leaves toward you to form a cone shape.",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step5.jpg"
+    },
+    {
+      text: "Pack 2 tbsp of glutinous rice to the bottom of the cone ",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step6.jpg"
+    },
+    {
+      text: "Place a tbsp full of red bean paste on top of the rice.",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step7.jpg"
+    },
+    {
+      text: "Add another 2 tbsp of glutinous rice to completely cover the red bean paste. Gently push the top to make sure the surface is flat. ",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step8.jpg"
+    },
+    {
+      text: "Fold over the leaves to cover the top completely.",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step9.jpg"
+    },
+    {
+      text: "Fold the remaining part of the leaves either to the right or left side. The zongzi should be completely wrapped.",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step10.jpg"
+    },
+    {
+      text: "Use a string to bind the zongzi so the leaves don’t unfold. Repeat the same process until you finish either the rice or red bean paste. ",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step11.jpg"
+    },
+    {
+      text: "Bring a large pot of water to a boil. Add the zongzi and let boil over low heat for 90-120 minutes. Remove the leaves and serve while hot.",
+      img: "zongzi/red-bean-zongzi-rice-dumpling-step12.jpg"
+    }
+  ],
+  summary: "A sweet sticky rice dumpling with red bean paste which only requires 3 ingredients.",
+  title: "Red Bean Sticky Rice Dumpling",
+  img: "zongzi/red-bean-zongzi-rice-dumpling.jpg",
+  serving: [
+  ],
+  ingredients: [
+    {
+      text: "2 dozen dried bamboo leaves"
+    },
+    {
+      text: "1 lb glutinous rice (sticky rice)"
+    },
+    {
+      text: "1 cup red bean paste"
+    }
+  ]
+}

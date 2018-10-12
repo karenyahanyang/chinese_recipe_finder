@@ -1,0 +1,38 @@
+{
+  recipe_list:
+  [
+    {
+      name: "zongzi/red-bean-sticky-rice-dumpling.json",
+      summary: "A sweet sticky rice dumpling with red bean paste which only requires 3 ingredients.",
+      title: "Red bean sticky rice dumpling",
+      img: "zongzi/red-bean-zongzi-rice-dumpling.jpg"
+    },
+    {
+      name: "cabbage-stir-fry/cabbage-stir-fry.json",
+      summary: "Among Chinese cabbage recipes, this cabbage stir-fry is savory, tangy, and very quick to prepare. ",
+      title: "Cabbage Stir Fry",
+      img: "cabbage-stir-fry/cabbage-stir-fry.jpg"
+    }
+    ,
+    {
+      name: "mapo-tofu/mapo-tofu.json",
+      summary: "Authentic Szechuan style mapo tofu is one of the branding dishes of Szechuan cuisine. It is spicy, numbing, hot, aromatic and tender.",
+      title: "Mapo Tofu",
+      img: "mapo-tofu/Mapo-Tofu.jpg"
+    }
+    ,
+    {
+      name: "red-cooked-pork/red-cooked-pork.json",
+      summary: "It’s a traditional dish you’ll find at fancy Chinese resultants just as often as at household dinner table. ",
+      title: "Red Cooked Pork",
+      img: "red-cooked-pork/red-cooked-pork.jpg"
+    }
+  ,
+    {
+      name: "tomato_egg_drop_soup/tomato_egg_drop_soup.json",
+      summary: "Simple and Healthy",
+      title: "Tomato Egg Drop Soup",
+      img: "tomato_egg_drop_soup/tomato_egg_drop_soup_04.jpg"
+    }
+  ]
+}
