@@ -4,8 +4,7 @@ An Android mobile application that allows users to search for chinese recipe (10
 
 Video Demo:
 
-[![IMAGE ALT TEXT]
-(https://img.youtube.com/vi/LuemwVGVSmA/0.jpg)] (https://www.youtube.com/embed/LuemwVGVSmA)
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/LuemwVGVSmA/0.jpg)](https://www.youtube.com/embed/LuemwVGVSmA)
 
 ``/model_trainer`` includes the code for training Convolutional Neural Network model in Python. 
 
